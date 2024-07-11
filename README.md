@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ahmad-Gill/Ahmad-Gill/blob/main/Screenshot%202024-03-12%20232135.png)
-<h1 align="center">Hi 👋, I'm Muhammad Ahmad Gill</h1>
+<h1 align="center">Hi 👋, I'm Rabia Sajal Niazi</h1>
 <h3 align="center">Digital Detective Uncovering Insights</h3>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
